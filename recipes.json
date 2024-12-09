@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Fruit Salad Acai",
+        "ingredients": ["1 cup strawberries", "1 cup blueberries"],
+        "instructions": "Mix all ingredients.",
+        "imageName": "fruit.jpeg",
+        "sourceURL": "https://example.com/fruit-salad"
+    },
+    {
+        "name": "Caesar Salad",
+        "ingredients": ["1 romaine lettuce", "1/2 cup Parmesan cheese"],
+        "instructions": "Combine ingredients.",
+        "imageName": "caesar.jpeg",
+        "sourceURL": "https://example.com/caesar-salad"
+    }
+]
